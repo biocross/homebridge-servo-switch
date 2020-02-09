@@ -1,4 +1,4 @@
-const https = require('https');
+const https = require('http');
 
 var registeredAccessory = false;
 var Service, Characteristic;
