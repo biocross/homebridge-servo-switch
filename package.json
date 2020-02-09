@@ -1,6 +1,6 @@
 {
   "name": "homebridge-servo-switch",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Turn on/off physical switches using a Servo and ESP32",
   "main": "index.js",
   "scripts": {
